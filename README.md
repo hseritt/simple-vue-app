@@ -1,5 +1,11 @@
 # vue-app
 
+Simple vue app copied from Tania Rascia's fantastic Vue tutorial. Mine just works with my own Django rest api server.
+
+To see her tutorial, go here:
+
+https://www.taniarascia.com/getting-started-with-vue/
+
 ## Project setup
 ```
 npm install
